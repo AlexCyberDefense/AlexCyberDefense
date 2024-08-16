@@ -29,13 +29,13 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Self Made Projects
 
-- Wazuh + Soar Implementation
+- SOC Automation Lab - Wazuh + Soar Implementation
 - Windows Event Log + ART Detection
 - Security Onion + PCAP Investigation
 - Malware Analysis Lab (Dynamic/Static)
 - Snort IDS Malicious PCAP
 - Cloud Honeypot
-- SOC Automation Lab
+  
 
 ## See-Security College Projects
 
