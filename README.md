@@ -32,7 +32,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ## Self Made Projects
 
 - **_SOC Automation Project_** : Wazuh + Soar Implementation
- ---
+ 
 - **_Windows Event Log Project_** : Atomic Red Team Detection
   
 - **_PCAP Analysis Project_** : Security Onion + PCAP Investigation
