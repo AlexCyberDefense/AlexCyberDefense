@@ -13,14 +13,35 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a> 
 
-
 ## Objective
 
 My journey in the last year has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get to advanced IR/Threat Hunting & Tier 3 (SOC) capabilities 
 
+## Certifications
 
+- CompTIA Security+ <div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Self Made Projects
+
+- Wazuh + Soar Implementation
+- Windows Event Log + ART Detection
+- Security Onion + PCAP Investigation
+- Malware Analysis Lab (Dynamic/Static)
+- Snort IDS Malicious PCAP
+- Cloud Honeypot
+- SOC Automation Lab
+
+## See-Security College Projects
+
+- See-Security College CSPP SOC Analyst Project
+- See-Security College CSPP Fortinet Project
+- See-Security College CSPP Linux Project
+- See-Security College CSPP Python Script Project
+- See-Security College CSPP Microsoft Active Directory Servers Project 
 
 ## Skills
 
@@ -55,29 +76,3 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-
-
-- CompTIA Security+ <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## Self Made Projects
-
-- Wazuh + Soar Implementation
-- Windows Event Log + ART Detection
-- Security Onion + PCAP Investigation
-- Malware Analysis Lab (Dynamic/Static)
-- Snort IDS Malicious PCAP
-- Cloud Honeypot
-- SOC Automation Lab
-
-## See-Security College Projects
-
-- See-Security College CSPP SOC Analyst Project
-- See-Security College CSPP Fortinet Project
-- See-Security College CSPP Linux Project
-- See-Security College CSPP Python Script Project
-- See-Security College CSPP Microsoft Active Directory Servers Project 
