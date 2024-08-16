@@ -1,21 +1,24 @@
 👋 Hi, I’m Alex 
 
-🎓 I'm a recent See-Security College CSPP graduate 
+🎓 I'm a recent See-Security College CSPP graduate and a CompTIA Security+ 
 
 🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
 
 👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skill set on various online platforms. 
     I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
 
-📫 How to reach me - <a href="https://www.linkedin.com/in/alexander-chait-21183027b/" target="_blank">
+📫 How to reach me 
+- <a href="https://www.linkedin.com/in/alexander-chait-21183027b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the last two years has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Long term I'm aiming to gain more certifications that will help me grow and evolve my skill set and knowledge, planning to get to advanced IR/Threat Hunting & Tier 3 (SOC) capabilities 
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
