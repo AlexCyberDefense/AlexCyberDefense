@@ -6,8 +6,8 @@
 
 🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
 
-👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skill set on various online platforms & virtual environments.
-   - I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
+👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skill set on various online platforms & virtual environments. 
+I also love creating interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
 
 👇 How to reach me: 
 
