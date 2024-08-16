@@ -8,15 +8,16 @@
     I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
 
 📫 How to reach me 
-- <a href="https://www.linkedin.com/in/alexander-chait-21183027b/" target="_blank">
+ <a href="https://www.linkedin.com/in/alexander-chait-21183027b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
 
 ## Objective
 
-My journey in the last two years has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-Long term I'm aiming to gain more certifications that will help me grow and evolve my skill set and knowledge, planning to get to advanced IR/Threat Hunting & Tier 3 (SOC) capabilities 
+My journey in the last year has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get to advanced IR/Threat Hunting & Tier 3 (SOC) capabilities 
 
 
 
