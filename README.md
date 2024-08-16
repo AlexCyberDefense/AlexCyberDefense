@@ -24,7 +24,9 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ## Certifications
 
 - CompTIA Security+ <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <a href="https://www.credly.com/badges/1cb6498b-558c-4c24-b940-ed66a6ddce24/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
 </div>
 
 ## Self Made Projects
@@ -49,9 +51,6 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 - See-Security College CSPP : [Linux Project](https://github.com/XManBearPigX/Projects/blob/main/Alexander%20Chait%20-%20CSPP86%20-%20Linux%20Essentials%20Project%20(GITHUB).pdf)
 - See-Security College CSPP : [Python Script Project](https://github.com/XManBearPigX/Projects/blob/main/Alexander%20Chait%20-%20CSPP86%20-%20Python%20Final%20Project%20(GITHUB).pdf)
 - See-Security College CSPP : [Microsoft Active Directory Servers Project](https://github.com/XManBearPigX/Projects/blob/main/Alexander%20Chait%20-%20CSPP86%20-%20Microsoft%20Servers%20Project%20(GITHUB).pdf)
-
-
-https://www.credly.com/badges/1cb6498b-558c-4c24-b940-ed66a6ddce24/public_url
 
 
 ## Skills
