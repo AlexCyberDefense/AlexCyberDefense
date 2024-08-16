@@ -74,7 +74,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 - Cloud Honeypot
 - SOC Automation Lab
 
-## College Projects
+## See-Security College Projects
 
 - See-Security College CSPP SOC Analyst Project
 - See-Security College CSPP Fortinet Project
