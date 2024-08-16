@@ -6,7 +6,7 @@
 
 🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
 
-👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skill set on various online platforms & virtual environments. 
+👨‍💻 I'm mostly self-taught, I enjoy learning & evolving my cybersecurity skill set on various online platforms & virtual environments. 
 also enjoy creating interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
 
 👇 How to reach me: 
@@ -42,6 +42,18 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 - **_IDS Network Monitoring_** : Snort IDS Malicious PCAP Investigation
   
 - **_Honeypot Project_** : Cloud Honeypot
+
+## Hands On Investigations
+
+- Lets Defend - 300+ Successful Investigations  
+
+- CyberDefenders - SOC Labs
+
+- BlueTeam Level One - SOC Labs
+
+- HackTheBox - Sherlock Challenges
+
+- KC7 - KQL Learning
   
 
 ## See-Security College Capstone Projects
