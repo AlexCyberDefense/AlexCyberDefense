@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m Passoinate about cyber security, specifily blue teaming and Incident response.
-- 🌱 I’m enjoy self learning anything related to cyber security on various online platforms
+  
+- 👀 I’m Passoinate about cyber security, specifily blue teaming and Incident response 🛡️.
+  
+- 🌱 I'm mostly self taught, enjoy learning & evolving my cyber security skillset on various online platforms.
+      also love doing intresting self-made projects while getting hands on experience with new or unfarmiliar topics
+
 - 📫 How to reach me - https://www.linkedin.com/in/alexander-chait-21183027b/
 
 <!---
