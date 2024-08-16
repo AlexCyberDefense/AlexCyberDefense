@@ -66,13 +66,13 @@ CompTIA Security+ <div>
 
 ## Self Made Projects
 
-- WAZUH + SOAR IMPLEMENTATION 
-- WINDOWS EVENT LOG + ART DETECTION  
-- SECURITY ONION + PCAP INVESTIGATION 
-- MALWARE ANALYST LAB (DYNAMIC+STATIC) 
-- SNORT IDS MALICIOUS PCAP
-- CLOUD HONEYPOT
-- SOC AUTOMATION LAB
+- Wazuh + Soar Implementation
+- Windows Event Log + ART Detection
+- Security Onion + PCAP Investigation
+- Malware Analysis Lab (Dynamic/Static)
+- Snort IDS Malicious PCAP
+- Cloud Honeypot
+- SOC Automation Lab
 
 ## College Projects
 
