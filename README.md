@@ -60,10 +60,23 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 
-compTIA Security+ <div>
+CompTIA Security+ <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Self Made Projects
+
+- WAZUH + SOAR IMPLEMENTATION 
+- WINDOWS EVENT LOG + ART DETECTION  
+- SECURITY ONION + PCAP INVESTIGATION 
+- MALWARE ANALYST LAB (DYNAMIC+STATIC) 
+- SNORT IDS MALICIOUS PCAP
+- CLOUD HONEYPOT
+- SOC AUTOMATION LAB
+
+## College Projects
+
+- See-Security College CSPP SOC Analyst Project
+- See-Security College CSPP Fortinet Project
+- See-Security College CSPP Linux Project
+- See-Security College CSPP Python Script Project
