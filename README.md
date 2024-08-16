@@ -57,7 +57,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. Use ChatGPT to help create the link]
 
 ### Network
 <div>
