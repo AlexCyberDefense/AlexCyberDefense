@@ -23,7 +23,6 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
