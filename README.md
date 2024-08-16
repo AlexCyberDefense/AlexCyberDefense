@@ -1,15 +1,17 @@
-- 👋 Hi, I’m Alex
-  
-- 🚀 I’m Passoinate about cyber security, specifily blue teaming and Incident response 🛡️.
-  
-- 👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skillset on various online platforms.
-      I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
+👋 Hi, I’m Alex
+
+
+🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
+
+
+👨‍💻 I'm mostly self-taught, enjoy learning & evolving my cybersecurity skill set on various online platforms. I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
+
 
 - 📫 How to reach me - <a href="[https://linkedin.com](https://www.linkedin.com/in/alexander-chait-21183027b/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent See Security  graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
