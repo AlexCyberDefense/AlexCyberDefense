@@ -8,6 +8,7 @@
     I also love doing interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
 
 📫 How to reach me 
+
  <a href="https://www.linkedin.com/in/alexander-chait-21183027b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
