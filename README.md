@@ -30,10 +30,15 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ## Self Made Projects
 
 - **_SOC Automation Project_** : Wazuh + Soar Implementation
-- **_Windows Event Log_** : Atomic Red Team Detection
+- 
+- **_Windows Event Log Project_** : Atomic Red Team Detection
+- 
 - **_PCAP Analysis Project_** : Security Onion + PCAP Investigation
+- 
 - **_Malware Analysis Lab Project_** : Dynamic & Static Malware Analysis
-- **_IDS Network Monitoring_** Snort IDS Malicious PCAP
+- 
+- **_IDS Network Monitoring_** : Snort IDS Malicious PCAP Investigation
+- 
 - **_Honeypot Project_** : Cloud Honeypot
   
 
