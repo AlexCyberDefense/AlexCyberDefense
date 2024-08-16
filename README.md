@@ -19,7 +19,7 @@ also enjoy creating interesting self-made projects while getting hands-on experi
 
 My journey in the last year has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get to advanced IR/Threat Hunting & Tier 3 (SOC) capabilities. 
+Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get advanced IR/Threat Hunting capabilities along with & Tier 3 (SOC) capabilities. 
 
 ## Certifications
 
