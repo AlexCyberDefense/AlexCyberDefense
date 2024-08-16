@@ -44,11 +44,11 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## See-Security College Projects
 
-- See-Security College CSPP SOC Analyst Project
-- See-Security College CSPP Fortinet Project
-- See-Security College CSPP Linux Project
-- See-Security College CSPP Python Script Project
-- See-Security College CSPP Microsoft Active Directory Servers Project 
+- See-Security College CSPP : SOC Analyst Project
+- See-Security College CSPP : Fortinet Project
+- See-Security College CSPP : Linux Project
+- See-Security College CSPP : Python Script Project
+- See-Security College CSPP : Microsoft Active Directory Servers Project 
 
 ## Skills
 
