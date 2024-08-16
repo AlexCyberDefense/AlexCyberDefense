@@ -46,7 +46,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ## Hands On Investigations
 
 - Lets Defend - 300+ Successful Investigations
- - Phishing, MITM, Replay Attacks, Session Hijacking, Brute Force Attacks, Birthday Attacks, SQL Injection, Cross-Site Scripting/Forgery (XSS)(CSRF), Directory Traversal, DLL Injection, Privilege Escalation, Malware, Zero Day, DDoS, Syn Flood, DNS/ARP Poisoning, Spoofing
+ . Phishing, MITM, Replay Attacks, Session Hijacking, Brute Force Attacks, Birthday Attacks, SQL Injection, Cross-Site Scripting/Forgery (XSS)(CSRF), Directory Traversal, DLL Injection, Privilege Escalation, Malware, Zero Day, DDoS, Syn Flood, DNS/ARP Poisoning, Spoofing, CVES, CVSS.
 
 - CyberDefenders - SOC Labs
 
