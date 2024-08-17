@@ -31,7 +31,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Self Made Projects
 
-- **_SOC Automation Project_** : *Wazuh* (SIEM/XDR) + TheHive (CaseManagment) + Shuffle (SOAR) Fully Functional Responsive Environment
+- **_SOC Automation Project_** : Wazuh (*SIEM/XDR*) + TheHive (*CaseManagment*) + Shuffle (*SOAR*) Fully Functional Lab
  
 - **_Windows Event Log Project_** : Atomic Red Team Detection
   
