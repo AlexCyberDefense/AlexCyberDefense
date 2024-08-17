@@ -23,14 +23,6 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://github.com/user-attachments/files/16643557/Alexander.Chait.CompTIA.Security%2B.ce.certificate.pdf?raw=true)
-
-- CompTIA Security+ <div>
-  <a href="https://www.credly.com/badges/1cb6498b-558c-4c24-b940-ed66a6ddce24/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  </a>
-</div>
-
 - CompTIA Security+ <div>
   <a href="https://www.credly.com/badges/1cb6498b-558c-4c24-b940-ed66a6ddce24/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
