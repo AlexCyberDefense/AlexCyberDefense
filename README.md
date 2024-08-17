@@ -66,7 +66,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
+
 
 ### Network
 <div>
