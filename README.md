@@ -45,13 +45,13 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Hands On Investigations
 
-- **_Lets Defend Simulations : 100+ Successful Investigations :_** 
+- Lets Defend Simulations: 100+ Successful Investigations
 
-- CyberDefenders - SOC Labs
+- CyberDefenders: SOC Labs
 
-- BlueTeam Level One - SOC Labs
+- BlueTeam Level One: SOC Labs
 
-- HackTheBox - Sherlock Challenges
+- HackTheBox: Sherlock Challenges
 
 - KC7 - KQL Learning
   
