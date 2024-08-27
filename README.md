@@ -19,7 +19,7 @@ also enjoy creating interesting self-made projects while getting hands-on experi
 
 My journey in the last year has led me to develop a passion for cybersecurity, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get advanced IR/Threat Hunting capabilities along with & Tier 2 (SOC) capabilities. 
+Long term I'm pursuing more certifications that will help me grow and evolve my skill sets and knowledge, while planning to get more advanced IR/Threat Hunting capabilities along with & Tier 2 (SOC) capabilities. 
 
 ## Certifications
 
@@ -32,11 +32,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ## Self Made Projects
 
 - **_SOC Automation Project_** : Fully Functional Lab - Wazuh (SIEM/XDR) + TheHive (CaseManagment) + Shuffle (SOAR) 
- 
-- **_Windows Event Log Project_** : Atomic Red Team Detection
-  
-- **_PCAP Analysis Project_** : Security Onion + PCAP Investigation
-  
+   
 - **_Malware Analysis Lab Project_** : Dynamic & Static Malware Analysis
   
 - **_IDS Network Monitoring_** : Snort IDS Malicious PCAP Investigation
@@ -45,7 +41,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Hands On Investigations
 
-- Lets Defend Simulations: 100+ Successful Investigations
+- Lets Defend Simulations: 50+ Successful Investigations (ongoing)
 
 - CyberDefenders: SOC Labs
 
@@ -53,7 +49,9 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 - HackTheBox: Sherlock Challenges
 
-- KC7 - KQL Learning
+- KC7 - Practical experience in data analysis & cybersecurity using KQL
+
+- Boss of the SOC - Hands-on practical experience using Splunk 
   
 
 ## See-Security College Capstone Projects
