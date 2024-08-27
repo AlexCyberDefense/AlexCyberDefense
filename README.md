@@ -89,6 +89,5 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 ### GENERAL
 <div>
     <img src="https://img.shields.io/badge/BASIC_PYTHON-yellow?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
