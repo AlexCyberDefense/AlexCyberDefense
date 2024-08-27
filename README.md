@@ -55,7 +55,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
   
 
 ## See-Security College Capstone Projects 
-  (download RAW files if it doesn't render)
+   (Download RAW files if it doesn't render)
 
 - See-Security College CSPP : [SOC Analyst Project](https://github.com/XManBearPigX/Projects/blob/main/Alexander%20Chait%20-%20CSPP86%20-%20SOC%20Final%20Project%20(GITHUB).pdf)
 - See-Security College CSPP : [Fortinet Firewall Project](https://github.com/XManBearPigX/Projects/blob/main/Alexander%20Chait%20-%20CSPP86%20-%20FortiGate%20Project%20(GITHUB).pdf)
