@@ -31,17 +31,17 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 ## Self Made Projects
 
-- **_SOC Automation Project_** : Fully Functional Lab - Wazuh (SIEM/XDR) + TheHive (CaseManagment) + Shuffle (SOAR) 
+- **_SOC Automation Project_** :  [Fully Functional Lab - Wazuh (SIEM/XDR) + TheHive (CaseManagment) + Shuffle (SOAR)](https://github.com/AlexCyberDefense/Projects/blob/main/SOC%20Automation%20Project%20AlexC.pdf)
    
-- **_Malware Analysis Lab Project_** : Dynamic & Static Malware Analysis
+- **_Malware Analysis Lab Project_** : [Dynamic & Static Malware Analysis](https://github.com/AlexCyberDefense/Projects/blob/main/Malware%20Analysis%20Project%20AlexC.pdf)
   
-- **_IDS Network Monitoring_** : Snort IDS Malicious PCAP Investigation
+- **_IDS Network Monitoring_** : [Snort IDS Malicious PCAP Investigation](https://github.com/AlexCyberDefense/Projects/blob/main/IDS%20Snort%20MaliciousPCAP%20Project%20AlexC.pdf)
   
-- **_Honeypot Project_** : Cloud Honeypot
+- **_Honeypot Project_** : [Cloud Honeypot](https://github.com/AlexCyberDefense/Projects/blob/main/Honeypot%20Project%20AlexC.pdf)
 
 ## Hands On Investigations
 
-- Lets Defend Simulations: 50+ Successful Investigations (ongoing)
+- Lets Defend Simulations: [50+ Successful Investigations (ongoing)](https://github.com/AlexCyberDefense/Projects/blob/main/Lets%20Defend%20Mega%20Investigation%20%20Project%20AlexC.pdf)
 
 - CyberDefenders: SOC Labs
 
