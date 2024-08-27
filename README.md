@@ -77,12 +77,16 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+https://img.shields.io/badge/TPOT-%235F259F?style=for-the-badge&logo=honey
 
-### SIEM
+### SIEM/SOAR/XDR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/WAZUH-blue?style=for-the-badge" />
+    https://img.shields.io/badge/THE_HIVE-%23FF7A00?style=for-the-badge&logo=hive&logoColor=white
+    https://img.shields.io/badge/SHUFFLE-orange?style=for-the-badge
+
 </div>
 
 
@@ -90,5 +94,10 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 <div>
     <img src="https://img.shields.io/badge/BASIC_PYTHON-yellow?style=for-the-badge&logo=python" />
     <img src="https://img.shields.io/badge/Active_Directory-gray?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BASIC_KQL-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FORTINET-%23EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/BASIC_LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/VIRTUAL_BOX-darkblue?style=for-the-badge&logo=virtualbox" />
+    <img src="https://img.shields.io/badge/VMWARE-white?style=for-the-badge&logo=vmware&logoColor=blue" />
 </div>
 
