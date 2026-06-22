@@ -29,6 +29,12 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
   </a>
 </div>
 
+- Linux Essentials <div>
+  <a href="https://www.credly.com/badges/1cb6498b-558c-4c24-b940-ed66a6ddce24/public_url](https://www.credly.com/badges/c5b57c1d-1b1d-47cb-92e4-451a09659460/public_url)" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+</div>
+
 ## Self Made Projects
 
 - **_SOC Automation Project_** :  [Fully Functional Lab - Wazuh (SIEM/XDR) + TheHive (CaseManagment) + Shuffle (SOAR)](https://github.com/AlexCyberDefense/Projects/blob/main/SOC%20Automation%20Project%20AlexC.pdf)
