@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Alex 
 
-🎓 I'm a recent See-Security College CSPP graduate & CompTIA Security+ Certified 
+🎓 I'm a See-Security College CSPP graduate & CompTIA Security+ Certified 
 
 🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
 
