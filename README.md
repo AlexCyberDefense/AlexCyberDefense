@@ -1,13 +1,12 @@
 ## Introduction
 
-👋 Hi, I’m Alex 
+👋 Hi, I’m Alex, I’m an IT Help Desk Operations & Service Delivery Manager with hands-on experience leading enterprise IT support operations, SLA performance, service delivery, team leadership, onboarding, training, process improvement, and cross-team collaboration.
 
-🎓 I'm a See-Security College CSPP graduate & CompTIA Security+ Certified 
+🎓 I’m a See Security College CSPP & HDE graduate and CompTIA Security+ certified.
 
-🚀 I’m Passionate about cybersecurity, specifically blue teaming and Incident response 🛡️.
+🚀 My background combines hands-on technical support, enterprise systems, IT operations, cybersecurity training, and people management. I enjoy both the technical side of solving complex issues and the leadership side of leading teams, developing people, improving processes, reducing workload, and delivering better service.
 
-👨‍💻 I'm mostly self-taught, I enjoy learning & evolving my cybersecurity skill set on various online platforms & virtual environments. 
-also enjoy creating interesting self-made projects while getting hands-on experience with new or unfamiliar topics.
+👨‍💻 I’m passionate about IT operations, cybersecurity, service management, leadership, automation, and continuous improvement. I continuously develop my technical and management skills through hands-on labs, online platforms, virtual environments, real-world projects, and day-to-day operational challenges.
 
 👇 How to reach me: 
 
