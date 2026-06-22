@@ -31,7 +31,7 @@ Long term I'm pursuing more certifications that will help me grow and evolve my 
 
 - Linux Essentials
 <div>
-  <a href="https://https://cs.lpi.org/caf/Xamman/certification/verify/LPI000627937/fbd44sdwyh" target="_blank" rel="noopener noreferrer">
+  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000627937/fbd44sdwyh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Linux%20Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Essentials Badge" />
   </a>
 </div>
