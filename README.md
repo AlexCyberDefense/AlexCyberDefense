@@ -14,6 +14,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a> 
 
+<a href="https://tryhackme.com/p/XManBearPigX" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 5% Badge" />
+</a>
+
+
 ## Objective
 
 My journey in the last year has led me to develop a passion for cybersecurity, I am eager to transition into this field 💪
